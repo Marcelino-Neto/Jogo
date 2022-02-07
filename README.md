@@ -1,7 +1,7 @@
 <h1 align="center">Jogo da Velha(pt-br) / tic-tac-toe(en)</h1>
 
 <h1 align='center'>
-<img src="readme.gif" alt="Readme"></img>
+<img src="gif/Readme.gif" alt="Readme"></img>
 </h1>
 
 ## About this Project
