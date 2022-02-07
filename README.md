@@ -24,6 +24,7 @@
 ```bash
 # Clone this repository
 $ git clone https://github.com/Marcelino-Neto/Jogo.git
+
 # Access the project folder in terminal/cmd
 $ cd Jogo.git
 
