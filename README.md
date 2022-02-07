@@ -15,7 +15,7 @@
 
 ## Installing
 
-- Before starting, you will need to have the following tools installed on your machine: <a href="https://git-scm.com/">Git</a>
+- Before starting, you will have this tool installed on your machine: <a href="https://git-scm.com/">Git</a>
 - It's nice to have an editor to work with code like: <a href="https://code.visualstudio.com/">VSCode</a>
 - Since this project doesn't depend on any external dependency, you can just run and start to use it! <br>
 
